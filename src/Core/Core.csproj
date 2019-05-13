@@ -4,6 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>Pytocs.Core</AssemblyName>
     <RootNamespace>Pytocs.Core</RootNamespace>
+    <Version>1.1.0-alpha1+20190513</Version>
+    <PackageReleaseNotes>https://github.com/teknologisk-institut/pytocs/tree/7199fa6c9846d4f6b30f6d3d30e4abb91a45288f</PackageReleaseNotes>
+    <Description>Pytocs.Core used by PyToCS package</Description>
   </PropertyGroup>
 
   <ItemGroup>

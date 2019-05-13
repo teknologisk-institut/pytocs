@@ -5,6 +5,12 @@
     <OutputType>exe</OutputType>
     <AssemblyName>pytocs</AssemblyName>
     <RootNamespace>Pytocs.Cli</RootNamespace>
+    <Description>NuGet package of Python To CSharp tool:
+https://github.com/teknologisk-institut/pytocs
+</Description>
+    <PackageReleaseNotes>Specific version URL:
+https://github.com/teknologisk-institut/pytocs/tree/7199fa6c9846d4f6b30f6d3d30e4abb91a45288f</PackageReleaseNotes>
+    <Version>1.1.0-alpha.1+20190213</Version>
   </PropertyGroup>
 
   <ItemGroup>
